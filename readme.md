@@ -1,5 +1,5 @@
 # Google Play Store App Review Analysis: Unlocking App Success
-
+![alt text](https://www.researchgate.net/publication/349383391/figure/fig5/AS:1080270199488545@1634567894382/Relationship-between-app-rating-and-the-number-of-installs.jpg)
 ## Overview
 
 This project is an Exploratory Data Analysis (EDA) of Google Play Store app data and user reviews. The goal is to identify key factors that contribute to app success, providing data-driven recommendations for app developers.  This was an individual capstone project for Module 2.
